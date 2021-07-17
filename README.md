@@ -1,7 +1,6 @@
 # Footstep-Power-Generation-Shoes
 
-![power generation shoe labelled](https://user-images.githubusercontent.com/78256070/126029526-6fb34d6a-730a-4eb5-85a3-c5e83eb30411.png)
-
+![power generation shoe](https://user-images.githubusercontent.com/78256070/126029931-c7ad90db-a4f1-4a29-941a-0e57f6b165ec.png)
 
 # Introduction :
 
@@ -56,8 +55,40 @@ The Rechargeable battery is then fed to a Voltage Regulator(7805) to give a cons
 
 # PCB Design : 
 
+![pcb main](https://user-images.githubusercontent.com/78256070/126029835-911dd622-0335-4468-80ce-a2ee4fea70e8.png)
 
+![pcb main 2d](https://user-images.githubusercontent.com/78256070/126029837-1d4ec45e-1c01-406c-a743-6b9382ff4de8.png)
 
+![7SEG](https://user-images.githubusercontent.com/78256070/126029839-c593cf57-f153-443e-8ca0-93d142f24978.png)
 
+![Switch](https://user-images.githubusercontent.com/78256070/126029886-15fce63c-a4da-48ca-9ad1-ae9209f4267b.png)
+
+![USB](https://user-images.githubusercontent.com/78256070/126029845-ab2d7dde-a58b-42e3-8387-5ae727cf5948.png)
+
+# 3D Design :
+
+![power generation shoe labelled](https://user-images.githubusercontent.com/78256070/126029912-89e96514-aa82-4dfa-90d0-7ffaf7772947.png)
+
+![power generation shoe side view](https://user-images.githubusercontent.com/78256070/126029916-2a599622-3e80-4538-aa44-8aec9186afe2.png)
+
+![power generation shoe top view](https://user-images.githubusercontent.com/78256070/126029922-54aeded9-54a1-4212-ab02-f106fa07fcdc.png)
+
+![power generation shoe back view](https://user-images.githubusercontent.com/78256070/126029925-90d68de6-cc84-439a-9602-d525c31764e5.png)
+
+# Results :
+
+The Piezoelectric transducers along with rectifier charges the 7.4 V rechargeable batteries.
+After all the piezoelectric transducers are pressed simultaneously for approximately 5 times, the capacitor (Considered as battery) is charged to 50 MILLI v.
+The constant 5 V 1A DC output from 7805 is used to charge cell phones using a USB port.
+
+![image](https://user-images.githubusercontent.com/78256070/126029974-0576f357-ec7d-4a54-a024-90a99965d618.png)
+
+# Conclusion :
+
+In concluding the words of our project, since the power generation using foot step get its energy requirements from the Non-renewable source of energy. 
+Currently,it a small scale project in shoes and it can be implemented on large scale by placing such piezoelectric tiles on footpath and roads.
+It is very useful to the places all roads and as well as all kind of foot step which is used to generate the non conventional energy like electricity. It is able to extend this project by using same arrangement and construct in the footsteps/speed breaker so that increase the power production rate by fixing school and colleges, highways etc.
+This can be used for many applications in rural areas where power availability is less or totally absence as India is a developing country where energy management is a big challenge for huge population
+By using this project we can drive both A.C. as well as D.C loads according to the force we applied on the piezoelectric sensor.
 
 
