@@ -1,1 +1,1 @@
-# In-Shoe-Footstep-Energy-Generator
+# Footstep-Power-Generation-Shoe
