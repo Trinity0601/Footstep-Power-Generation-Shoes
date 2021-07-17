@@ -1,5 +1,7 @@
 # Footstep-Power-Generation-Shoes
 
+![power generation shoe labelled](https://user-images.githubusercontent.com/78256070/126029526-6fb34d6a-730a-4eb5-85a3-c5e83eb30411.png)
+
 
 Introduction :
 
@@ -23,6 +25,37 @@ To produce renewable electricity from footstep using piezoelectric transducers.
 Hardware :
 
 ![image](https://user-images.githubusercontent.com/78256070/126029368-a9fcf115-bd19-479a-8929-a01333137f62.png)
+
+Software :
+
+![image](https://user-images.githubusercontent.com/78256070/126029552-753cad43-5f8c-4772-ba4f-29015db9edce.png)
+
+Block Diagram :
+
+![image](https://user-images.githubusercontent.com/78256070/126029569-4e1ef6b2-f40e-454b-8771-45f11ac59e53.png)
+
+System Flowchart :
+
+![image](https://user-images.githubusercontent.com/78256070/126029599-eb3851ae-d57d-4366-9d33-d93a7a3d4f6a.png)
+
+Hardware Architecture :
+
+![View recent photos](https://user-images.githubusercontent.com/78256070/126029676-82d48f6c-3885-442b-a5a1-c74012240b19.png)
+
+Proteus Schematics :
+
+![image](https://user-images.githubusercontent.com/78256070/126029701-11327486-b0d3-45de-9dfd-2f2fa1dee6a4.png)
+
+Working :
+
+The circuit is placed in the shoes of the user. And the piezoelectric transducers are placed above the sole and under a thin sheet of foam so as to provide comfort to the user. 
+The piezoelectric material converts the pressure applied to it into electrical energy.  The source of pressure is from the weight of the people walking . The transducers are placed in such an arrangement so as to generate maximum output voltage. 
+The output of the piezoelectric material is not a steady one. So a bridge circuit is used to convert this variable voltage into a linear one.  Again an AC ripple filter is used to filter out any further fluctuations in the output.  The output dc voltage is then stored in a rechargeable battery. 
+This is then provided to our monitoring circuitry.The circuit is a microcontroller based monitoring circuit that allows the user to monitor the voltage of the battery by  displaying it on a 7 segment display.
+The Rechargeable battery is then fed to a Voltage Regulator(7805) to give a constant 5V DC output which then can be connected to a USB mobile phone charging port where users can connect cable to charge mobile phones on the go.
+
+PCB Design : 
+
 
 
 
