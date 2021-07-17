@@ -1,5 +1,6 @@
 # Footstep-Power-Generation-Shoes
 
+
 Introduction :
 
 For an alternate method to generate electricity there are number of methods by which electricity can be produced, out if such methods footstep energy generation can be an effective method to generate electricity. 
@@ -19,6 +20,9 @@ The battery being charged is monitored by microcontroller and level is displayed
 
 To produce renewable electricity from footstep using piezoelectric transducers.
 
+Hardware :
+
+![image](https://user-images.githubusercontent.com/78256070/126029368-a9fcf115-bd19-479a-8929-a01333137f62.png)
 
 
 
