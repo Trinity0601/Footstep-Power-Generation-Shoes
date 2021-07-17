@@ -1,4 +1,4 @@
-# Footstep-Power-Generation-Shoes
+# Footstep Power Generation Shoes
 
 ![power generation shoe](https://user-images.githubusercontent.com/78256070/126029931-c7ad90db-a4f1-4a29-941a-0e57f6b165ec.png)
 
