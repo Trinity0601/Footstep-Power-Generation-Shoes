@@ -3,7 +3,7 @@
 ![power generation shoe labelled](https://user-images.githubusercontent.com/78256070/126029526-6fb34d6a-730a-4eb5-85a3-c5e83eb30411.png)
 
 
-Introduction :
+# Introduction :
 
 For an alternate method to generate electricity there are number of methods by which electricity can be produced, out if such methods footstep energy generation can be an effective method to generate electricity. 
 
@@ -12,7 +12,7 @@ Walking is the most common activity in human life. When a person walks, he loses
 This device, if embedded in the shoes, can convert foot impact energy into electrical form. Human-powered transport has been in existence since time immemorial in the form of walking, running and swimming. However modern technology has led to machines to enhance the use of human-power in more efficient manner.
 
 
-Aim and Objective :
+# Aim and Objective :
 
 The aim of this project is to convert foot step, walking and running energy into electrical energy by using transducer and use it in an electronic device that requires low power
 
@@ -22,31 +22,31 @@ The battery being charged is monitored by microcontroller and level is displayed
 
 To produce renewable electricity from footstep using piezoelectric transducers.
 
-Hardware :
+# Hardware :
 
 ![image](https://user-images.githubusercontent.com/78256070/126029368-a9fcf115-bd19-479a-8929-a01333137f62.png)
 
-Software :
+# Software :
 
 ![image](https://user-images.githubusercontent.com/78256070/126029552-753cad43-5f8c-4772-ba4f-29015db9edce.png)
 
-Block Diagram :
+# Block Diagram :
 
 ![image](https://user-images.githubusercontent.com/78256070/126029569-4e1ef6b2-f40e-454b-8771-45f11ac59e53.png)
 
-System Flowchart :
+# System Flowchart :
 
 ![image](https://user-images.githubusercontent.com/78256070/126029599-eb3851ae-d57d-4366-9d33-d93a7a3d4f6a.png)
 
-Hardware Architecture :
+# Hardware Architecture :
 
 ![View recent photos](https://user-images.githubusercontent.com/78256070/126029676-82d48f6c-3885-442b-a5a1-c74012240b19.png)
 
-Proteus Schematics :
+# Proteus Schematics :
 
 ![image](https://user-images.githubusercontent.com/78256070/126029701-11327486-b0d3-45de-9dfd-2f2fa1dee6a4.png)
 
-Working :
+# Working :
 
 The circuit is placed in the shoes of the user. And the piezoelectric transducers are placed above the sole and under a thin sheet of foam so as to provide comfort to the user. 
 The piezoelectric material converts the pressure applied to it into electrical energy.  The source of pressure is from the weight of the people walking . The transducers are placed in such an arrangement so as to generate maximum output voltage. 
@@ -54,7 +54,7 @@ The output of the piezoelectric material is not a steady one. So a bridge circui
 This is then provided to our monitoring circuitry.The circuit is a microcontroller based monitoring circuit that allows the user to monitor the voltage of the battery by  displaying it on a 7 segment display.
 The Rechargeable battery is then fed to a Voltage Regulator(7805) to give a constant 5V DC output which then can be connected to a USB mobile phone charging port where users can connect cable to charge mobile phones on the go.
 
-PCB Design : 
+# PCB Design : 
 
 
 
