@@ -2,6 +2,7 @@
 
 ![power generation shoe](https://user-images.githubusercontent.com/78256070/126029931-c7ad90db-a4f1-4a29-941a-0e57f6b165ec.png)
 
+Video of Project Prototype : https://drive.google.com/file/d/1msQIKgSqyJ1lNLidql2iTYMT0AZqbKyM/view?usp=sharing
 # Introduction :
 
 For an alternate method to generate electricity there are number of methods by which electricity can be produced, out if such methods footstep energy generation can be an effective method to generate electricity. 
