@@ -1,6 +1,5 @@
 # Footstep Power Generation Shoes
-
-![power generation shoe](https://user-images.githubusercontent.com/78256070/126029931-c7ad90db-a4f1-4a29-941a-0e57f6b165ec.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/78256070/126029931-c7ad90db-a4f1-4a29-941a-0e57f6b165ec.png" width="750" height="450" ></p>
 
 Video of Project Prototype : https://drive.google.com/file/d/1msQIKgSqyJ1lNLidql2iTYMT0AZqbKyM/view?usp=sharing
 # Introduction :
@@ -56,7 +55,7 @@ The Rechargeable battery is then fed to a Voltage Regulator(7805) to give a cons
 
 # PCB Design : 
 
-![pcb main](https://user-images.githubusercontent.com/78256070/126029835-911dd622-0335-4468-80ce-a2ee4fea70e8.png)
+<img src="https://user-images.githubusercontent.com/78256070/126029835-911dd622-0335-4468-80ce-a2ee4fea70e8.png" width="600" height="450" align="centre">
 
 ![pcb main 2d](https://user-images.githubusercontent.com/78256070/126029837-1d4ec45e-1c01-406c-a743-6b9382ff4de8.png)
 
