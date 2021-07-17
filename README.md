@@ -39,7 +39,8 @@ To produce renewable electricity from footstep using piezoelectric transducers.
 
 # Hardware Architecture :
 
-![View recent photos](https://user-images.githubusercontent.com/78256070/126029676-82d48f6c-3885-442b-a5a1-c74012240b19.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/78256070/126029676-82d48f6c-3885-442b-a5a1-c74012240b19.png" width="800" height="800" ></p>
+
 
 # Proteus Schematics :
 
