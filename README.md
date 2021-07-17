@@ -1,5 +1,5 @@
 # Footstep Power Generation Shoes
-<p align="center"><img src="https://user-images.githubusercontent.com/78256070/126029931-c7ad90db-a4f1-4a29-941a-0e57f6b165ec.png" width="750" height="450" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/78256070/126029931-c7ad90db-a4f1-4a29-941a-0e57f6b165ec.png" width="650" height="400" ></p>
 
 Video of Project Prototype : https://drive.google.com/file/d/1msQIKgSqyJ1lNLidql2iTYMT0AZqbKyM/view?usp=sharing
 # Introduction :
